@@ -1,0 +1,122 @@
+{
+    "config": {
+        "compliments": {
+            "anytime": [
+                "Ei, tudo bem, sexy?",
+                "Você é incrível!",
+                "Continue brilhando!",
+                "Seu sorriso ilumina tudo!",
+                "Você arrasa!",
+                "Mantenha essa energia!",
+                "Você é especial!",
+                "Que energia boa!",
+                "Seu dia será incrível!",
+                "Você merece tudo de bom!",
+                "Que charme!"
+            ],
+            "morning": [
+                "Bom dia, lindo(a)!",
+                "Aproveite o seu dia!",
+                "Como foi sua noite de sono?",
+                "Bom dia, flor do dia!",
+                "Hoje será um ótimo dia!",
+                "Levante-se e brilhe!",
+                "Um café e você já domina o mundo!",
+                "Dormiu bem? Hoje é um novo começo!",
+                "Bom dia, campeão!",
+                "Vamos fazer deste um dia incrível!",
+                "Que sua manhã seja leve e feliz!",
+                "Você está pronto(a) para brilhar!",
+                "Cada manhã é uma nova oportunidade!",
+                "Bom dia com um sorriso no rosto!",
+                "Que sua manhã seja cheia de energia positiva!",
+                "Você é a luz da manhã!"
+            ],
+            "afternoon": [
+                "Olá, belezura!",
+                "Você está incrível!",
+                "Parece ótimo hoje!",
+                "Boa tarde, elegante!",
+                "Que tal uma pausa para descansar?",
+                "Você está cheio(a) de estilo!",
+                "Continue arrasando!",
+                "Essa energia contagia!",
+                "Boa tarde, flor da tarde!",
+                "Você está radiante!",
+                "Que tarde gostosa!",
+                "Não esqueça de se cuidar!",
+                "Você está esbanjando confiança!",
+                "Aproveite o resto da tarde!",
+                "Que tal uma pausa com um café?",
+                "Boa tarde! Tudo está fluindo bem?",
+                "Continue espalhando essa energia incrível!"
+            ],
+            "evening": [
+                "Uau, você está arrasando!",
+                "Você está encantador(a)!",
+                "Oi, charmoso(a)!",
+                "Que noite mágica!",
+                "Você merece descanso e paz!",
+                "A noite combina com você!",
+                "Está pronto(a) para descansar?",
+                "Que tal um momento só seu?",
+                "Você brilhou hoje!",
+                "Agora é hora de relaxar!",
+                "Tenha uma noite incrível!",
+                "Amanhã é um novo dia!",
+                "Boa noite! Você fez o seu melhor hoje!",
+                "Aproveite o silêncio da noite!",
+                "Que sua noite seja tranquila e aconchegante!",
+                "Você está finalizando o dia com elegância!",
+                "Deixe a paz da noite te envolver!"
+            ],
+            "....-12-25": [
+                "Feliz Natal!",
+                "Que seu Natal seja repleto de alegria!",
+                "Boas festas com muito amor!",
+                "Época de compartilhar felicidade!",
+                "Que o espírito natalino te encha de paz!",
+                "Felicidades neste Natal maravilhoso!",
+                "Que sua casa seja cheia de luz e harmonia!",
+                "Aproveite cada momento deste Natal especial!",
+                "Feliz Natal com muito carinho!",
+                "Você merece toda a magia do Natal!"
+            ],
+            "....-02-14": [
+                "Feliz Dia dos Namorados!",
+                "Você é o amor da minha vida!",
+                "Hoje é dia de celebrar o amor!",
+                "Que dia especial ao seu lado!",
+                "Cada momento com você é mágico!",
+                "Você torna tudo mais especial!",
+                "Que nosso amor floresça sempre!",
+                "Te amo hoje e sempre!",
+                "Feliz dia cheio de amor!"
+            ],
+            "....-03-08": [
+                "Feliz Dia Internacional da Mulher!",
+                "Você é força e inspiração!",
+                "Hoje celebramos você, mulher incrível!",
+                "Que sua essência seja sempre admirada!",
+                "Você merece o mundo!",
+                "Que orgulho de ter você em nossas vidas!",
+                "Seu brilho é inigualável!",
+                "Que seja um dia de muita felicidade!",
+                "Hoje e sempre, parabéns pela sua força!",
+                "Você é uma inspiração para todos!"
+            ],
+            "....-10-31": [
+                "Feliz Halloween!",
+                "Que seu dia seja assustadoramente divertido!",
+                "Doçuras ou travessuras?",
+                "Hoje é dia de fantasias e diversão!",
+                "Prepare-se para uma noite mágica!",
+                "Que tal uma dose de mistério e diversão?",
+                "Feliz Dia das Bruxas!",
+                "Aproveite a magia desta noite!",
+                "Que seu Halloween seja inesquecível!",
+                "Tempo de diversão e aventuras!"
+            ]
+        }
+    }
+}
